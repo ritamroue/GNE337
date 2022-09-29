@@ -1,0 +1,11 @@
+Model Information:
+* title:	Concrete Barrier
+* source:	https://sketchfab.com/3d-models/concrete-barrier-b2dd789e69bd401da49a94790d119079
+* author:	Funny_Bear2 (https://sketchfab.com/Funny_Bear2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Concrete Barrier" (https://sketchfab.com/3d-models/concrete-barrier-b2dd789e69bd401da49a94790d119079) by Funny_Bear2 (https://sketchfab.com/Funny_Bear2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
