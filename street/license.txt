@@ -1,0 +1,11 @@
+Model Information:
+* title:	Street
+* source:	https://sketchfab.com/3d-models/street-a3ef12f012ee4fadb3cc323b4b0b8dbf
+* author:	Kacprzyk (https://sketchfab.com/vermin320)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Street" (https://sketchfab.com/3d-models/street-a3ef12f012ee4fadb3cc323b4b0b8dbf) by Kacprzyk (https://sketchfab.com/vermin320) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
