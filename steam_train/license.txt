@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steam Train
+* source:	https://sketchfab.com/3d-models/steam-train-28c99701e32948f3a4ae060de982b326
+* author:	Digital Goblin (https://sketchfab.com/DigitalGoblin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steam Train" (https://sketchfab.com/3d-models/steam-train-28c99701e32948f3a4ae060de982b326) by Digital Goblin (https://sketchfab.com/DigitalGoblin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
