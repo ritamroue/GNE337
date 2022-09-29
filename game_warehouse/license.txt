@@ -1,0 +1,11 @@
+Model Information:
+* title:	Game Warehouse
+* source:	https://sketchfab.com/3d-models/game-warehouse-9e6ab624af5540c9a527b103763d591a
+* author:	KBM7 (https://sketchfab.com/klaus5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Game Warehouse" (https://sketchfab.com/3d-models/game-warehouse-9e6ab624af5540c9a527b103763d591a) by KBM7 (https://sketchfab.com/klaus5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
