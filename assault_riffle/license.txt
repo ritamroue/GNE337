@@ -1,0 +1,11 @@
+Model Information:
+* title:	Assault Riffle
+* source:	https://sketchfab.com/3d-models/assault-riffle-b7a15a6fb5ef4a4f9284cb7579b1f2b0
+* author:	FreeModel (https://sketchfab.com/DiFed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Assault Riffle" (https://sketchfab.com/3d-models/assault-riffle-b7a15a6fb5ef4a4f9284cb7579b1f2b0) by FreeModel (https://sketchfab.com/DiFed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
