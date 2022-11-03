@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ak47 FPS Animated with hand
+* source:	https://sketchfab.com/3d-models/ak47-fps-animated-with-hand-1879cffa93d946149d6efdb4640c83c4
+* author:	Gamerz (https://sketchfab.com/syedhasnaingillani)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ak47 FPS Animated with hand" (https://sketchfab.com/3d-models/ak47-fps-animated-with-hand-1879cffa93d946149d6efdb4640c83c4) by Gamerz (https://sketchfab.com/syedhasnaingillani) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
